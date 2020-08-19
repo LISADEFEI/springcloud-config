@@ -1,0 +1,4 @@
+spring:
+  profiles: dev
+  application:
+    name: cloud2020-config-atguigu-dev
